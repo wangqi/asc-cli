@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-12T07:34:45.406Z",
+  "generated": "2026-10-17T11:33:01.922Z",
   "items": [
     {
       "developer": "itshan",
@@ -7,7 +7,7 @@
       "x": "itshanrw",
       "trackId": 6757699024,
       "trackName": "Coupon Distributor",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/b2/3e/cdb23ecb-14e5-ede8-5850-ad71d9ee24bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/04/74/8704745e-54cc-d412-4e07-c2154da228ca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "primaryGenreName": "Developer Tools",
       "url": "https://apps.apple.com/us/app/coupon-distributor/id6757699024?uo=4"
     },
@@ -15,11 +15,31 @@
       "developer": "itshan",
       "github": "hanrw",
       "x": "itshanrw",
-      "trackId": 6743046579,
-      "trackName": "BezelBlend",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/d1/29/82d12908-8826-9a20-e61a-0288ffaa6ff9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "primaryGenreName": "Productivity",
-      "url": "https://apps.apple.com/us/app/bezelblend/id6743046579?uo=4"
+      "trackId": 6758028657,
+      "trackName": "SubCal - Subscription Tracker",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/2b/cf/2e2bcfaa-fac2-f01a-d499-c6014d111b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "primaryGenreName": "Finance",
+      "url": "https://apps.apple.com/us/app/subcal-subscription-tracker/id6758028657?uo=4"
+    },
+    {
+      "developer": "itshan",
+      "github": "hanrw",
+      "x": "itshanrw",
+      "trackId": 6748760927,
+      "trackName": "AppNexus for App Store Connect",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/cf/1d/f8cf1d0a-6f44-056b-9a4a-e4f53d8f7369/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "primaryGenreName": "Developer Tools",
+      "url": "https://apps.apple.com/us/app/appnexus-for-app-store-connect/id6748760927?uo=4"
+    },
+    {
+      "developer": "itshan",
+      "github": "hanrw",
+      "x": "itshanrw",
+      "trackId": 6738306175,
+      "trackName": "BlurBlend – Masking Assistant",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/34/9c/67349c43-ac45-a35f-886c-414875a7a382/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "primaryGenreName": "Utilities",
+      "url": "https://apps.apple.com/us/app/blurblend-masking-assistant/id6738306175?uo=4"
     },
     {
       "developer": "itshan",
@@ -35,31 +55,11 @@
       "developer": "itshan",
       "github": "hanrw",
       "x": "itshanrw",
-      "trackId": 6738306175,
-      "trackName": "BlurBlend – Masking Assistant",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/a2/fa/7ea2fa74-560f-50cb-0770-cad032e72027/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "primaryGenreName": "Utilities",
-      "url": "https://apps.apple.com/us/app/blurblend-masking-assistant/id6738306175?uo=4"
-    },
-    {
-      "developer": "itshan",
-      "github": "hanrw",
-      "x": "itshanrw",
-      "trackId": 6758028657,
-      "trackName": "SubCal - Subscription Tracker",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/9c/2d/559c2d22-0468-4b50-ff45-869c75f862f2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "primaryGenreName": "Finance",
-      "url": "https://apps.apple.com/us/app/subcal-subscription-tracker/id6758028657?uo=4"
-    },
-    {
-      "developer": "itshan",
-      "github": "hanrw",
-      "x": "itshanrw",
-      "trackId": 6748760927,
-      "trackName": "AppNexus for App Store Connect",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/99/ba/bf99ba47-d5c5-9b7b-be52-ae95c1a2a7d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "primaryGenreName": "Developer Tools",
-      "url": "https://apps.apple.com/us/app/appnexus-for-app-store-connect/id6748760927?uo=4"
+      "trackId": 6743046579,
+      "trackName": "BezelBlend",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/d1/29/82d12908-8826-9a20-e61a-0288ffaa6ff9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "primaryGenreName": "Productivity",
+      "url": "https://apps.apple.com/us/app/bezelblend/id6743046579?uo=4"
     },
     {
       "developer": "itshan",
@@ -75,21 +75,21 @@
       "developer": "itshan",
       "github": "hanrw",
       "x": "itshanrw",
-      "trackId": 6741713404,
-      "trackName": "LinguaSnap: Language Classroom",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/50/2a/44502ac5-7412-8f9d-dfc6-02c0f53932fe/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "primaryGenreName": "Education",
-      "url": "https://apps.apple.com/us/app/linguasnap-language-classroom/id6741713404?uo=4"
-    },
-    {
-      "developer": "itshan",
-      "github": "hanrw",
-      "x": "itshanrw",
       "trackId": 6767814134,
       "trackName": "SwissBoard",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/98/9f/21989f58-1db8-2df5-785d-86c494f44d23/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.jpg",
       "primaryGenreName": "Productivity",
       "url": "https://apps.apple.com/us/app/swissboard/id6767814134?uo=4"
+    },
+    {
+      "developer": "itshan",
+      "github": "hanrw",
+      "x": "itshanrw",
+      "trackId": 6741713404,
+      "trackName": "LinguaSnap: Language Classroom",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/50/2a/44502ac5-7412-8f9d-dfc6-02c0f53932fe/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "primaryGenreName": "Education",
+      "url": "https://apps.apple.com/us/app/linguasnap-language-classroom/id6741713404?uo=4"
     },
     {
       "developer": "itshan",
@@ -102,12 +102,22 @@
       "url": "https://apps.apple.com/us/app/hivesync/id6749836141?mt=12&uo=4"
     },
     {
+      "developer": "itshan",
+      "github": "hanrw",
+      "x": "itshanrw",
+      "trackId": 6787646042,
+      "trackName": "MurmurSubtitles",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/2c/9c/782c9c8e-e6ae-f203-5e04-799cf6e10e19/AppIcon-0-0-85-220-0-5-0-2x-sRGB.png/100x100bb.png",
+      "primaryGenreName": "Education",
+      "url": "https://apps.apple.com/us/app/murmursubtitles/id6787646042?mt=12&uo=4"
+    },
+    {
       "developer": "Jonathan Ngbonga",
       "github": null,
       "x": null,
       "trackId": 6758156421,
       "trackName": "Wapi: Events for inner circles",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/1a/10/491a1012-21a9-5dc9-fe44-7924c5d5a691/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/84/6c/aa846cc8-1665-7d89-24e4-c29b8ee24761/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "primaryGenreName": "Social Networking",
       "url": "https://apps.apple.com/app/id6758156421"
     },
@@ -116,8 +126,8 @@
       "github": null,
       "x": null,
       "trackId": 6467128147,
-      "trackName": "Airclap - Fast File Transfer",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/ea/c9/10eac960-dfc1-76cd-7de7-593bbf5dc6e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "trackName": "Airclap: File Transfer to PC",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/10/81/94108193-4c9d-614e-72bc-f282d5e11ec5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "primaryGenreName": "Utilities",
       "url": "https://apps.apple.com/app/id6467128147"
     },
@@ -146,10 +156,30 @@
       "github": "westerbamos",
       "x": "westerbamos",
       "trackId": 6759816401,
-      "trackName": "Tottli: Newborn & Baby Tracker",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/3a/e4/c53ae41e-571d-93fd-6541-f9872d3b26cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "primaryGenreName": "Health & Fitness",
-      "url": "https://apps.apple.com/us/app/tottli-newborn-baby-tracker/id6759816401?uo=4"
+      "trackName": "Tottli: Baby & Pumping Tracker",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/40/db/d940dbee-b471-86e4-f3cf-e01f82022b77/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "primaryGenreName": "Medical",
+      "url": "https://apps.apple.com/us/app/tottli-baby-pumping-tracker/id6759816401?uo=4"
+    },
+    {
+      "developer": "westerbamos",
+      "github": "westerbamos",
+      "x": "westerbamos",
+      "trackId": 6780050782,
+      "trackName": "FlagPole: American Flag Widget",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f4/42/63f44285-ee93-64f1-e98f-827d69cff1ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "primaryGenreName": "Utilities",
+      "url": "https://apps.apple.com/us/app/flagpole-american-flag-widget/id6780050782?uo=4"
+    },
+    {
+      "developer": "westerbamos",
+      "github": "westerbamos",
+      "x": "westerbamos",
+      "trackId": 6802322244,
+      "trackName": "Spin4: Family Choice Wheel",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/3d/88/493d88ed-980c-cbf1-a9a2-df55ac86d159/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "primaryGenreName": "Lifestyle",
+      "url": "https://apps.apple.com/us/app/spin4-family-choice-wheel/id6802322244?uo=4"
     },
     {
       "developer": "Eversight",
@@ -157,9 +187,19 @@
       "x": null,
       "trackId": 6760348975,
       "trackName": "RelicLens: Antique Identifier",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/73/50/9a73505d-1ea7-a79b-9245-3d33ceafb2b0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/6f/05/cb6f05b9-64ec-a110-f568-2a609d21f589/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "primaryGenreName": "Reference",
       "url": "https://apps.apple.com/us/app/reliclens-antique-identifier/id6760348975"
+    },
+    {
+      "developer": "BetaReels",
+      "github": "AKAICH00",
+      "x": null,
+      "trackId": 6777212637,
+      "trackName": "BetaReels Creator",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1e/1d/5b1e1d43-42e3-2c56-f1f6-2a3ec31101e6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "primaryGenreName": "Business",
+      "url": "https://apps.apple.com/app/id6777212637"
     }
   ]
 }
